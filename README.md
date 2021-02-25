@@ -1,2 +1,2 @@
-# 2020_Kaggle
-2020년 캐글(Kaggle) 대회 참여
+# 2021_Kaggle
+2021년 캐글(Kaggle) 대회 참여
